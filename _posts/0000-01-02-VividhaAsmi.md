@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     activesupport (6.0.3.6)
-      concurrent-ruby (~> 1.0, >= 1.0.2)
+      concurrent-ruby (~> 1.0, >= 1.0.2)  line5 replaced
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
@@ -13,7 +13,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.11.1)
-    colorator (1.1.0) line replaced
+    colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.8)
